@@ -1,0 +1,92 @@
+{
+	"blocks": [
+		{
+			"type": "image",
+			"title": {
+				"type": "plain_text",
+				"text": "Weekend Wins Banner",
+				"emoji": true
+			},
+			"image_url": "https://res.cloudinary.com/djdefbnij/image/upload/v1645803124/Community/weekendwin-banner_rvd004.png",
+			"alt_text": "Weekend Wins"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Hey everyone, :wave:"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "\n\nWe hope you've had a fantastic week!  \n Our wins are FUN this week!"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "image",
+			"title": {
+				"type": "plain_text",
+				"text": "Swedish hackathon",
+				"emoji": true
+			},
+			"image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F757912069%2F547435968885%2F1%2Foriginal.20240502-140644?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=db419b5cdcd85fc712db9c5d4092a6b4",
+			"alt_text": "Sweden Hackathon"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "One of our HUGE Weekend Wins is how many are signing up for the Swedish Hackathon! There is still limited space available so if you have the ability make sure to sign up before it's too late!"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":point_right: *How do I get involved?* Head over to the #hackathon channel and :eyes: the pinned post for instructions!"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":point_right: *When is it?* Tuesday, 11th June - Saturday, 15th June April"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":point_right: *What skill level do I need?* Hackathon events are open to all skill levels (newcomers to alumni) , and there is something for everybody to contribute towards."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":bangbang: :ci-duck-og: We also have a roundup of the London in-person Hackathon from the newest member of the community team :ci-duck-og: :bangbang:. \n \n Watch this quick video of the CI Rubber Duck :ci-duck-og: on their 1st hackathon to see what a :codeinst: Hybrid Hackathon is all about! \n \n:eyes: Watch this space to see the future flock grow! :duck_friends: \n \nhttps://youtu.be/RJ407-U3hDI?si=CqZswyKAkLaNkB0j"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":weekendwin: :point_down: @channel *What's YOUR win?* Post it below to celebrate! :point_down: :weekendwin: \n \n "
+			}
+		}
+	]
+}
