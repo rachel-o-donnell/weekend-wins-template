@@ -1,0 +1,82 @@
+{
+	"blocks": [
+		{
+			"type": "image",
+			"title": {
+				"type": "plain_text",
+				"text": "Weekend Wins Banner",
+				"emoji": true
+			},
+			"image_url": "https://res.cloudinary.com/djdefbnij/image/upload/v1645803124/Community/weekendwin-banner_rvd004.png",
+			"alt_text": "Weekend Wins"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Hey everyone, :wave:"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Hey everyone! \n\nWe hope you've had a productive and nice week! We can't wait for our March 2024 :smiley: *World Happiness Day!* :smiley: Hackathon to get kick started next week. We wish the best to all the participants and Hackteam! \n\nGreat work everyone on getting through your course work and working on your projects, we can't wait to see what you all will be able to come up with!"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "image",
+			"title": {
+				"type": "plain_text",
+				"text": "London hackathon",
+				"emoji": true
+			},
+			"image_url": "https://files.slack.com/files-pri/T0L30B202-F06NXFL2B6X/https___cdn.evbuc.com_images_707097959_224922473727_1_original.jpg",
+			"alt_text": "London Hackathon"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "And the last thing to note is also Hackathon related! One of our HUGE Weekend Wins is how many are signing up for the London Hackathon! There is still limited space available so if you have the ability make sure to sign up before it's too late!"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":point_right: *How do I get involved?* Head over to the #hackathon channel and :eyes: the pinned post for instructions!"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":point_right: *When is it?* Tuesday 22nd - Saturday 26th April"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":point_right: *What skill level do I need?* Hackathon events are open to all skill levels (newcomers to alumni) , and there is something for everybody to contribute towards."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":weekendwin: :point_down: @channel *What's YOUR win?* Post it below to celebrate! :point_down: :weekendwin:"
+			}
+		}
+	]
+}
